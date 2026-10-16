@@ -1,0 +1,5 @@
+{
+  "name": "Yandex SpeechKit (HA 2026.10+)",
+  "homeassistant": "2026.10.0",
+  "render_readme": true
+}
