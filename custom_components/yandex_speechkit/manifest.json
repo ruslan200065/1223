@@ -1,0 +1,17 @@
+{
+  "domain": "yandex_speechkit",
+  "name": "Yandex SpeechKit (HA 2026.10+)",
+  "codeowners": [
+    "@black-roland"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/ruslan200065/1223",
+  "integration_type": "service",
+  "iot_class": "cloud_push",
+  "issue_tracker": "https://github.com/ruslan200065/1223/issues",
+  "loggers": [
+    "yandex_speechkit"
+  ],
+  "requirements": [],
+  "version": "1.2.0-ruslan.1"
+}
